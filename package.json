@@ -1,0 +1,17 @@
+{
+  "name": "sequelize-example",
+  "version": "1.0.0",
+  "description": "This is a sample application using Sequelize ORM based on Rocketseat example.",
+  "main": "index.js",
+  "repository": "https://github.com/karlosdaniel451/sequelize-example.git",
+  "author": "Karlos Daniel Pires da Silva <karlosdanielsilva7654@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.21.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.5.1"
+  }
+}
